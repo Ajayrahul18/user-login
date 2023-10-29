@@ -1,0 +1,21 @@
+.container{
+    max-width: 400;
+    margin: 50px auto;
+    padding: 50px;
+    background-color: #6077aa;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px #1f1a1a;
+}
+h1{
+    text-align: center;
+}
+label{
+    font-weight: bold;
+}
+.form-control{
+    margin-bottom: 15px;
+}
+.btn-primary{
+    width: 100%;
+    color: white;
+}
